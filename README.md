@@ -1,4 +1,4 @@
-# Typescript - What is TypeScript?
+# TypeScript - What is TypeScript?
 - A JavaScript Superset.
 - A Language building upon JavaScript.
 - Adds new Features + Advantages to JavaScript.
