@@ -20,7 +20,7 @@ console.log(add('2', '3'));
 - Add if check to add function Validate & sanitize user input -> Developers can still write invalid code!
 - TypeScript is a "Tool" that helps developers write better code. 
 
-# Invoke typescript compile
+# Invoke typeScript compiler
 ```
 tsc filename.ts
 
