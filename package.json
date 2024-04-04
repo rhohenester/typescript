@@ -2,5 +2,21 @@
   "dependencies": {
     "g": "^2.0.1",
     "typescript": "^5.4.3"
-  }
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "- A JavaScript Superset. - A Language building upon JavaScript. - Adds new Features + Advantages to JavaScript. - Browser or Node.js CAN'T execute it. - Powerful compiler that converts everything to JavaScript. - Features are compiled to JS \"workaround\", and possible errors are thrown.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    	"test": "echo \"Error: no test specified\" && exit 1",
+ 	"start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
 }
