@@ -16,7 +16,6 @@ function add(num1, num2){
 //Calling a function with two strings, will result in logical mistake. Instead of a math calculation, JavaScript will return a concatenation (23). That would not happen with TS.
 console.log(add('2', '3'));
 ```
-# Mitigation Strategies
-- Add if check to add function Validate & sanitize user input
-- Developers can still write invalid code!
+# Mitigation Strategies JS
+- Add if check to add function Validate & sanitize user input -> Developers can still write invalid code!
 - TypeScript is a "Tool" that helps developers write better code. 
