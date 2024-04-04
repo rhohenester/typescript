@@ -19,3 +19,9 @@ console.log(add('2', '3'));
 # Mitigation Strategies JS
 - Add if check to add function Validate & sanitize user input -> Developers can still write invalid code!
 - TypeScript is a "Tool" that helps developers write better code. 
+
+# Invoke typescript compile
+```
+tsc filename.ts
+
+```
