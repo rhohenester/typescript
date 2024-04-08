@@ -13,5 +13,5 @@ let favoriteActivities: string[];
 for (const hobby of person.hobbies) {
   console.log(hobby.toUpperCase());
   //Simulate TS Error:
-  console.log(hobby.map());
+  //console.log(hobby.map());
 }
