@@ -12,3 +12,15 @@
 ```
 true, false
 ```
+- Object (Any JavaScript object, more specific types (type of object) are possible)
+```
+{age: 30}
+```
+- Array (Any JavaScript array, type can be flexible or strict - regarding the element types)
+```
+[1, 2, 3]
+```
+- Tuple (Added by TypeScript: Fixed-length array)
+```
+[1, 2]
+```
