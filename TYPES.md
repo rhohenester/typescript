@@ -28,3 +28,7 @@ true, false
 ```
 enum {NEW, OLD}
 ```
+- Any (Any kind of value, no specific type assignment)
+```
+*
+```
