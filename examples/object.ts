@@ -8,11 +8,19 @@
     age: 31
 } */
 
+enum Role {
+  ADMIN,
+  READ_ONLY,
+  AUTHOR,
+}
 
 // js code:
 const person = {
-    name: 'Tete',
-    age: 31
-}
+  name: "Tete",
+  age: 31,
+  role: Role.ADMIN,
+};
 
-console.log(person.name);
+if (person.role === Role.ADMIN) {
+  console.log("it is an admin");
+}

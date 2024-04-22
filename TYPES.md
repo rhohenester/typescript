@@ -24,3 +24,7 @@ true, false
 ```
 [1, 2]
 ```
+- Enum (Added by TypeScript: Automatically enumerated global constant identifiers)
+```
+enum {NEW, OLD}
+```
